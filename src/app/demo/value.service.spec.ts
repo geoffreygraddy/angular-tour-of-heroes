@@ -1,4 +1,4 @@
-import { ValueService } from "./demo";
+import { ValueService } from "./value.service";
 
 // Straight Jasmine testing without Angular's testing support
 describe('ValueService', () => {
